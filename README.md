@@ -27,7 +27,7 @@ The goal is to predict future sales accurately and present insights through clea
 ## 📁 Project Structure
 
 ```
-sales-forecasting/
+FUTURE_ML_01/
 │── notebook.ipynb        # Kaggle notebook (model training & forecasting)
 │── sales_forecast.csv    # Forecast output for Power BI
 │── powerbi_sales_data    # PowerBI combined data 
